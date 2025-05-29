@@ -69,7 +69,7 @@ public class CaloriesWS {
             case "moderate": return 1.55;
             case "active": return 1.725;
             case "very active": return 1.9;
-            default: return 1.5;
+            default: return 1.2;
         }
     }
 }
